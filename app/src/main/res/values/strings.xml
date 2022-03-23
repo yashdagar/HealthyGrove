@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HealthyGrove</string>
+    <string name="title_activity_cam">CamActivity</string>
+</resources>
